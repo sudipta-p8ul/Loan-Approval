@@ -1,4 +1,3 @@
-# Loan-Approval
 # 🏦 Loan Approval Prediction
 
 This project focuses on predicting whether a loan application will be approved or not using Machine Learning models. It helps financial institutions automate decision-making and reduce risk by analyzing applicant data.
